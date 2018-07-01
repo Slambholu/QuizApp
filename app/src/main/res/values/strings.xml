@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Header">Computer Quiz</string>
+    <string name="questionOne">1.) OS defines ________</string>
+    <string name="instruction">Pick ONLY ONE ANSWER for each of the following questions.</string>
+    <string name="OptionA1">Order of Significance</string>
+    <string name="OptionB1">Operating System</string>
+    <string name="OptionC1">Open Software</string>
+    <string name="questionTwo">2.) IC chips used in computers are usually made of ________</string>
+    <string name="OptionA2">Lead</string>
+    <string name="OptionB2">Silicon</string>
+    <string name="OptionC2">Chromium</string>
+    <string name="questionThree">3.) WAN stands for ________</string>
+    <string name="OptionA3">Wap Area Network</string>
+    <string name="OptionB3">Wireless Area Network</string>
+    <string name="OptionC3">Wide Area Network</string>
+    <string name="questionFour">4.) The content of RAM are ________</string>
+    <string name="OptionA4">Temporary</string>
+    <string name="OptionB4">Permanent</string>
+    <string name="OptionC4">Volatile</string>
+    <string name="questionFive">5.) The Brain of the computer is also known as the _________</string>
+    <string name="OptionA5">Monitor</string>
+    <string name="OptionB5">Keyboard</string>
+    <string name="OptionC5">CPU</string>
+    <string name="questionSix">6.) Software is a ________ element</string>
+    <string name="OptionA6">Static</string>
+    <string name="OptionB6">Logical</string>
+    <string name="OptionC6">Dynamic</string>
+    <string name="questionSeven">7.) Choose the odd one out</string>
+    <string name="OptionA7">Digital Computer</string>
+    <string name="OptionB7">Super Computer</string>
+    <string name="OptionC7">Mini Computer</string>
+    <string name="questionEight">8.) The capacity of 3.5inch floppy disk is?</string>
+    <string name="OptionA8">1.44GB</string>
+    <string name="OptionB8">1.44MB</string>
+    <string name="OptionC8">1.40MB</string>
+    <string name="finish">Submit</string>
+</resources>
+
